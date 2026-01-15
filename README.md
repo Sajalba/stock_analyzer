@@ -1,4 +1,5 @@
-📈 Stock Analyst Pro 
+📈 Stock Analyst Pro
+
 An AI-powered Equity Research Agent built with LangGraph, Groq (Llama 3.3 70B), and LangChain. This tool autonomously fetches real-time market data, technical indicators, and news to generate structured investment reports.
 
 🚀 Overview
@@ -55,4 +56,5 @@ Chatbot -> Tools: Fetches data (Price, Tech, News).
 Tools -> Chatbot: LLM receives data and formats the report.
 Chatbot -> End: Delivers final response to user.
 
-⚠️ DisclaimerThis tool is for educational purposes only. It is not financial advice. Always consult with a certified financial advisor before making investment decisions.
+⚠️ Disclaimer
+This tool is for educational purposes only. It is not financial advice. Always consult with a certified financial advisor before making investment decisions.
